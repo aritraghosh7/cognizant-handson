@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\bin\Debug\net9.0\Exercise3-EcommercePlatformSearch.exe
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\bin\Debug\net9.0\Exercise3-EcommercePlatformSearch.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\bin\Debug\net9.0\Exercise3-EcommercePlatformSearch.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\bin\Debug\net9.0\Exercise3-EcommercePlatformSearch.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\bin\Debug\net9.0\Exercise3-EcommercePlatformSearch.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\refint\Exercise3-EcommercePlatformSearch.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\Exercise3-EcommercePlatformSearch.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise3-EcommercePlatformSearch\obj\Debug\net9.0\ref\Exercise3-EcommercePlatformSearch.dll
