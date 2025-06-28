@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cognizant-handson", "cognizant-handson", "{8366DB6D-9D04-A188-8D87-387C5FFDD4DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week1", "week1", "{A10078B9-816B-3D7C-C4C8-B316AE23A236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "cognizant-handson\week1\Exercise1-SingletonPattern\SingletonPattern.csproj", "{1BD7973F-D7B6-150D-1073-75BCBC9733A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2-FactoryMethodPattern", "cognizant-handson\week1\Exercise2-FactoryMethodPattern\Exercise2-FactoryMethodPattern.csproj", "{8CD21486-8FB1-F7BC-DEDF-B4DC68857033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3-EcommercePlatformSearch", "cognizant-handson\week1\Exercise3-EcommercePlatformSearch\Exercise3-EcommercePlatformSearch.csproj", "{964EF28D-85E6-BBB0-65FF-070B30EA51B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4-FinancialForecasting", "cognizant-handson\week1\Exercise4-FinancialForecasting\Exercise4-FinancialForecasting.csproj", "{00CB7B6B-50C5-2444-3D0F-D83ED15E75D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD7973F-D7B6-150D-1073-75BCBC9733A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD7973F-D7B6-150D-1073-75BCBC9733A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD7973F-D7B6-150D-1073-75BCBC9733A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD7973F-D7B6-150D-1073-75BCBC9733A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD21486-8FB1-F7BC-DEDF-B4DC68857033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD21486-8FB1-F7BC-DEDF-B4DC68857033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD21486-8FB1-F7BC-DEDF-B4DC68857033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD21486-8FB1-F7BC-DEDF-B4DC68857033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964EF28D-85E6-BBB0-65FF-070B30EA51B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964EF28D-85E6-BBB0-65FF-070B30EA51B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964EF28D-85E6-BBB0-65FF-070B30EA51B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964EF28D-85E6-BBB0-65FF-070B30EA51B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CB7B6B-50C5-2444-3D0F-D83ED15E75D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CB7B6B-50C5-2444-3D0F-D83ED15E75D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CB7B6B-50C5-2444-3D0F-D83ED15E75D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CB7B6B-50C5-2444-3D0F-D83ED15E75D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A10078B9-816B-3D7C-C4C8-B316AE23A236} = {8366DB6D-9D04-A188-8D87-387C5FFDD4DD}
+		{1BD7973F-D7B6-150D-1073-75BCBC9733A6} = {A10078B9-816B-3D7C-C4C8-B316AE23A236}
+		{8CD21486-8FB1-F7BC-DEDF-B4DC68857033} = {A10078B9-816B-3D7C-C4C8-B316AE23A236}
+		{964EF28D-85E6-BBB0-65FF-070B30EA51B5} = {A10078B9-816B-3D7C-C4C8-B316AE23A236}
+		{00CB7B6B-50C5-2444-3D0F-D83ED15E75D2} = {A10078B9-816B-3D7C-C4C8-B316AE23A236}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F731F3B8-DDA5-442C-BD36-A82EF1FBBA15}
+	EndGlobalSection
+EndGlobal
