@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\bin\Debug\net9.0\Exercise2-FactoryMethodPattern.exe
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\bin\Debug\net9.0\Exercise2-FactoryMethodPattern.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\bin\Debug\net9.0\Exercise2-FactoryMethodPattern.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\bin\Debug\net9.0\Exercise2-FactoryMethodPattern.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\bin\Debug\net9.0\Exercise2-FactoryMethodPattern.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\refint\Exercise2-FactoryMethodPattern.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\Exercise2-FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise2-FactoryMethodPattern\obj\Debug\net9.0\ref\Exercise2-FactoryMethodPattern.dll

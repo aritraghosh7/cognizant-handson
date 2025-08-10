@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iT5Emdo7BfI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Cog\\week2\\Exercise6-CustomerCommLib\\Exercise6-CustomerCommLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

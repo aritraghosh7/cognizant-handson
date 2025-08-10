@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\bin\Debug\net9.0\Exercise4-FinancialForecasting.exe
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\bin\Debug\net9.0\Exercise4-FinancialForecasting.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\bin\Debug\net9.0\Exercise4-FinancialForecasting.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\bin\Debug\net9.0\Exercise4-FinancialForecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\bin\Debug\net9.0\Exercise4-FinancialForecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\refint\Exercise4-FinancialForecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\Exercise4-FinancialForecasting.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Cog\week1\Exercise4-FinancialForecasting\obj\Debug\net9.0\ref\Exercise4-FinancialForecasting.dll
